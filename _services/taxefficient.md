@@ -1,13 +1,22 @@
 ---
-title: "Wealth Management"
+title: "Tax efficient portfolio strategies"
 date: 2019-06-18T12:33:46+10:00
 weight: 8
 ---
 
-Lorem markdownum **Achaica revolutaque amore**, penitus puppes nec furit,
-clipeus fatetur, mira inter accedere. Dedit dum raptoresque Oete dolorem
-Cretaeas enim [ipse pectora excusat](#in-poscat) candentibus fertur? Furtiva
-Orontes Erysicthona dona, est per Achille viridi draconis cultis mota milia.
+# Tax efficient portfolio strategies
+
+Rebalancing at set intervals based on specified tolerance ranges comprises a basic procedural framework. To truly deliver high quality portfolio management, tax implications must also be considered.
+
+> Tax efficient portfolio strategies can include
+
+> Selling from high-cost lots
+
+> Location optimization
+
+> Avoiding short-term gains
+
+> Tax loss harvesting
 
 ![Accounting Services](/images/thom-holmes-Lrfw0U_o9I0-unsplash.jpg)
 
