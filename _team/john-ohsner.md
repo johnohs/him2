@@ -3,7 +3,7 @@ title: "John Ohsner"
 date: 2018-11-19T10:47:58+10:00
 image: "images/team/jo-thumb.png"
 jobtitle: "Portfolio Manager & President"
-linkedinurl: "https://www.linkedin.com/"
+linkedinurl: "https://www.linkedin.com/in/johnohsner"
 promoted: true
 weight: 1
 ---
