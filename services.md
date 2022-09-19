@@ -1,5 +1,5 @@
 ---
-title: Services
+title: Client Resources
 layout: services
 description: Services
 intro_image: "images/illustrations/reading.svg"
