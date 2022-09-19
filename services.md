@@ -13,13 +13,9 @@ Evaluate personal financial risk tolerance, and investment objectives, blending 
 Collect and organize the information needed to develop an asset management program which includes your goals and the resources available to fund them.
 Personalized explanation of investment risk and return to help better understand how investments might perform in the future.
 
-Take a look and see what program fits your investment needs. Or, we can help you determine which program best suits your investment objectives, and lifestyle. You may find that a combination of our programs may work best for you.
-
-![Accounting Services](/images/thom-holmes-Lrfw0U_o9I0-unsplash.jpg)
-
 # Programs
 
-Different investors have different needs.
+Take a look and see what program fits your investment needs. Or, we can help you determine which program best suits your investment objectives, and lifestyle. You may find that a combination of our programs may work best for you.
 
 ## Full Service Wealth Management
 
