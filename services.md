@@ -1,7 +1,7 @@
 ---
-title: Services
-layout: services
-description: Services
+title: Resources
+layout: resources
+description: Resources
 intro_image: "images/illustrations/reading.svg"
 intro_image_absolute: true
 intro_image_hide_on_mobile: true
